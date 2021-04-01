@@ -1,0 +1,15 @@
+D:\QMFiles\WPFtest\actiontest\actiontest\bin\Debug\actiontest.exe.config
+D:\QMFiles\WPFtest\actiontest\actiontest\bin\Debug\actiontest.exe
+D:\QMFiles\WPFtest\actiontest\actiontest\bin\Debug\actiontest.pdb
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest.csprojAssemblyReference.cache
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\MainWindow.g.cs
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\App.g.cs
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest_MarkupCompile.cache
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest_MarkupCompile.lref
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\MainWindow.baml
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest.g.resources
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest.Properties.Resources.resources
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest.csproj.GenerateResource.cache
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest.csproj.CoreCompileInputs.cache
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest.exe
+D:\QMFiles\WPFtest\actiontest\actiontest\obj\Debug\actiontest.pdb

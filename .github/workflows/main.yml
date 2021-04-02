@@ -12,7 +12,7 @@ jobs:
     runs-on: windows-latest 
     strategy:
       matrix:
-        dotnet-version: [ '4.5.2' ]
+        dotnet-version: [ '5.0.x' ]
 
     steps:
     - uses: actions/checkout@v2
@@ -20,12 +20,8 @@ jobs:
       uses: actions/setup-dotnet@v1.7.2
       with:
         dotnet-version: ${{ matrix.dotnet-version }}
-    - name: Install .NET Core
-      uses: actions/setup-dotnet@v1
-      with:
-        dotnet-version: 5.0.x
-#     - name: Install dependencies
-#       run: dotnet restore
+    - name: Install dependencies
+      run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Test

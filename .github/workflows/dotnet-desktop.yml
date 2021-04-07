@@ -83,8 +83,8 @@ jobs:
 #     - name: Execute unit tests
 #       run: dotnet test
     
-    - name: Install dependencies
-      run: dotnet restore
+#     - name: Install dependencies
+#       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release --no-restore
 

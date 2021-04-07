@@ -85,7 +85,7 @@ jobs:
     
 #     - name: Install dependencies
 #       run: dotnet restore
-    - name: Build
+    - name: Build 
       run: dotnet build --configuration Release --no-restore
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
